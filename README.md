@@ -3,7 +3,7 @@
 ## Description
 ### This project is an online platform for property rental and sale listings. Built using the Nuxt.js framework for the frontend and Vue.js for the user interface, along with Node.js for the backend, this project aims to provide a similar user experience and functionality to other rentals like Nobroker, magicbricks, etc.
 
-## Features
+## Features:
 1. User Registration and Authentication: Users can create accounts, log in, and manage their profiles.
 2. Property Listings: Users can browse through a wide range of property listings, including rental and sale options.
 3. Property Search: Users can search for properties based on various criteria such as location, price range, property type, and more.
